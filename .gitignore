@@ -3,3 +3,5 @@ dist/
 .tern-project
 yarn.lock
 package-lock.json
+var/results/*
+var/uploads/*
